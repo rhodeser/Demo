@@ -1,0 +1,13 @@
+//here is a sample file
+
+//it has a bunch of lines
+//that say things
+
+//here is a function
+
+sample_funct(int a){
+  return 42;
+  }
+
+// ok that's all for this file
+
